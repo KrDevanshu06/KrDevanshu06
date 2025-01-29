@@ -32,13 +32,17 @@ Like My Work?
 ### About Me:
 - 🛠 &nbsp; **Currently Working With:** Web Development, JavaScript, PHP, AWS, and Cloud Computing.
 - 🤖 &nbsp; **Exploring:** Machine Learning, Generative AI, Blockchain, and Scalable Solutions.
-- 💡 &nbsp; **Key Skills:** Data Science, Project Management, Web Application Development.
+- 💡 &nbsp;  **Key Skills:** Data Science, Project Management, Web Application Development.
 
 ### What I Do:
 - Built a **Plant Disease Detection System** using ML & Deep Learning.
 - Developed a **PHP-based Student Management System** for academic tracking.
 - Designed a **Swiggy Web App Clone** with a responsive UI.
 - Completed virtual experiences with **Goldman Sachs, AWS APAC,** and **Oasis Infobyte**.
+
+### Let's Connect:
+- 📫 &nbsp; **Reach me at:** krdevanshu06@rediffmail.com
+- 🔗 &nbsp; **LinkedIn:** [/krdevanshu06](https://www.linkedin.com/in/krdevanshu06/)
 
 ### My Absolute Favorites:
 
