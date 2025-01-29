@@ -5,7 +5,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_devanshx0/)
 
 ### Glad to see you here! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krdevanshu06&label=Profile%20views&color=0e75b6&style=flat" alt="krdevanshu06" /> </p>
+<a href="#">
+	<p align="left"> <img src="https://komarev.com/ghpvc/?username=krdevanshu06&label=Profile%20views&color=0e75b6&style=flat" alt="krdevanshu06" /> </p>
+</a>
 I am a Full Stack Developer with experience in Web Development and Cybersecurity, currently exploring Machine Learning, Generative AI, and Blockchain. 🚀
 
 I've worked on projects like a Plant Disease Detection System using Deep Learning and a PHP-based Student Management System, showcasing my passion for problem-solving and first-principle thinking. With a strong foundation in JavaScript, PHP, AWS, TensorFlow, Keras, Streamlit, OpenCV, and more, I've developed scalable applications and worked across Web Development and Machine Learning.
@@ -17,17 +19,18 @@ Feel free to connect with me [@krdevanshu06](https://github.com/krdevanshu06) fo
 Joined GitHub **3** years ago.
 
 <hr>
-<h3 align="left">✨ Random Dev Quote::</h3>
+<h3 align="left">✨ Random Dev Quote:</h3>
+<a href="#">
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
+</a>
 <hr>
 
 Like My Work?
 
 <a href="https://www.buymeacoffee.com/krdevanshu06" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/krdevanshu06/krdevanshu06/master/gifs/coder.gif" />
 
 ### About Me:
 - 🛠 &nbsp; **Currently Working With:** Web Development, JavaScript, PHP, AWS, and Cloud Computing.
@@ -63,6 +66,7 @@ Like My Work?
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
+
 
 ### Projects and Dev Stuffs:
 
