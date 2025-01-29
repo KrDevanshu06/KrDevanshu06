@@ -96,7 +96,7 @@ Like My Work?
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### [Show some ❤️ by starring some of the repositories!](https://github.com/KrDevanshu06?tab=repositories)
 
 </div>
 <p align="center">
