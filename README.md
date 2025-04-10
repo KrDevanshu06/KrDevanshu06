@@ -103,8 +103,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krdevanshu06&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krdevanshu06&layout=compact&langs_count=8&theme=highcontrast&hide_border=true" height="180em"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=krdevanshu06&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180em"/> -->
+        <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&preferLogin=false&Background=000000&Text=FFFFFF&Border=000000"><img  alt="krdevanshu06's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/krdevanshu06?cardType=level&preferLogin=false&Background=000000&Text=FFFFFF&Border=000000" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krdevanshu06&layout=compact&langs_count=8&theme=highcontrast&hide_border=true" height="200em"/>
 </p>
 
 ### 🔥 GitHub Streaks
