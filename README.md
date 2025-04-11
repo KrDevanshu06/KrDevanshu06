@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=700&color=36BCF7&center=true&vCenter=true&width=650&lines=Machine+Learning;Generative+AI+Engineer;LLM+Application+Builder;Deep+Learning+With+TensorFlow;Always+Learning+Something+New;Prompt+Engineering+Practitioner;Cybersecurity+Enthusiast+%F0%9F%94%95;Open+Source+Contributor;Web3+Innovator+%F0%9F%92%B0;Blockchain+Developer+%F0%9F%94%91;Tech+Event+Participant;Ethical+Hacking+Learner" alt="Typing SVG" />
+  <a href="#TypingSVG"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=700&color=36BCF7&center=true&vCenter=true&width=650&lines=Machine+Learning;Generative+AI+Engineer;LLM+Application+Builder;Deep+Learning+With+TensorFlow;Always+Learning+Something+New;Prompt+Engineering+Practitioner;Cybersecurity+Enthusiast+%F0%9F%94%95;Open+Source+Contributor;Web3+Innovator+%F0%9F%92%B0;Blockchain+Developer+%F0%9F%94%91;Tech+Event+Participant;Ethical+Hacking+Learner" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krdevanshu06&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <a href="#PROFILEVIEWS"><img src="https://komarev.com/ghpvc/?username=krdevanshu06&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" /></a>
 </p>
 
 ---
@@ -71,30 +71,30 @@
 
 <!-- Machine Learning & AI -->
 <p align="center">
-  <img title="Python" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img title="TensorFlow" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img title="Keras" alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img title="Streamlit" alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img title="OpenCV" alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <a href="#Machine Learning"><img title="Python" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="#Machine Learning"><img title="TensorFlow" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
+  <a href="#Machine Learning"><img title="Keras" alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/></a>
+  <a href="#Machine Learning"><img title="Streamlit" alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
+  <a href="#Machine Learning"><img title="OpenCV" alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/></a>
 </p>
 
 <!-- Dev Tools & Scripting -->
 <p align="center">
-  <img title="Git" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img title="Bash" alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img title="PHP" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img title="JavaScript" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img title="AWS" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img title="SQL" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <a href="#Dev Tools"><img title="Git" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+  <a href="#Dev Tools"><img title="Bash" alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
+  <a href="#Dev Tools"><img title="PHP" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
+  <a href="#Dev Tools"><img title="JavaScript" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/></a>
+  <a href="#Dev Tools"><img title="AWS" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
+  <a href="#Dev Tools"><img title="SQL" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 </p>
 
 <!-- Web & Other Tech -->
 <p align="center">
-  <img title="HTML5" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img title="CSS3" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img title="VSCode" alt="VSCode" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img title="Linux" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img title="Cybersecurity" alt="Cybersecurity" src="https://img.shields.io/badge/Cybersecurity-0F0F0F?style=for-the-badge&logo=datadog&logoColor=lime"/>
+  <a href="#Web Other Tech"><img title="HTML5" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+  <a href="#Web Other Tech"><img title="CSS3" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+  <a href="#Web Other Tech"><img title="VSCode" alt="VSCode" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
+  <a href="#Web Other Tech"><img title="Linux" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
+  <a href="#Web Other Tech"><img title="Cybersecurity" alt="Cybersecurity" src="https://img.shields.io/badge/Cybersecurity-0F0F0F?style=for-the-badge&logo=datadog&logoColor=lime"/></a>
 </p>
 
 
@@ -104,14 +104,14 @@
 
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=krdevanshu06&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180em"/> -->
-        <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&preferLogin=false&Background=000000&Text=FFFFFF&Border=000000"><img  alt="krdevanshu06's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/krdevanshu06?cardType=level&preferLogin=false&Background=000000&Text=FFFFFF&Border=000000" /></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krdevanshu06&layout=compact&langs_count=8&theme=highcontrast&hide_border=true" height="200em"/>
+        <a href="#GitHub Stats"><img  alt="krdevanshu06's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/krdevanshu06?cardType=level&preferLogin=false&Background=000000&Text=FFFFFF&Border=000000" /></a>
+  <a href="#GitHub Stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krdevanshu06&layout=compact&langs_count=8&theme=highcontrast&hide_border=true" height="200em"/></a>
 </p>
 
 ### 🔥 GitHub Streaks
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=krdevanshu06&theme=onedark&border_radius=8"/>
+  <a href="#GitHub Streaks"><img src="https://github-readme-streak-stats.herokuapp.com?user=krdevanshu06&theme=youtube-dark&border_radius=8"/></a>
 </p>
 
 ---
@@ -119,19 +119,19 @@
 ### 📆 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krdevanshu06&theme=github-compact" alt="GitHub Activity Graph" />
+  <a href="#Contribution Graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=krdevanshu06&theme=high-contrast&hide_border=true" alt="GitHub Activity Graph" /></a>
 </p>
 
 ---
 
 <h3>⚙️ Tools I Use</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Windows_10_Pro-0078D6?style=flat-square&logo=windows&logoColor=white" title="Operating System: Windows 10 Pro" />
-  <img src="https://img.shields.io/badge/Dell_Inspiron_3552-007DB8?style=flat-square&logo=dell&logoColor=white" title="Laptop: Dell Inspiron 3552" />
-  <img src="https://img.shields.io/badge/Intel_Celeron_N3060-blue?style=flat-square&logo=intel&logoColor=white" title="Processor: Intel Celeron N3060" />
-  <img src="https://img.shields.io/badge/Edge/Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white" title="Browser: Edge / Chrome" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" title="IDE: Visual Studio Code" />
-  <img src="https://img.shields.io/badge/Cursor_AI-6E6EFF?style=flat-square&logo=OpenAI&logoColor=white" title="IDE: Cursor (AI-Powered)" />
+  <a href="#Tools I Use"><img src="https://img.shields.io/badge/Windows_10_Pro-0078D6?style=flat-square&logo=windows&logoColor=white" title="Operating System: Windows 10 Pro" /></a>
+  <a href="#Tools I Use"><img src="https://img.shields.io/badge/Dell_Inspiron_3552-007DB8?style=flat-square&logo=dell&logoColor=white" title="Laptop: Dell Inspiron 3552" /></a>
+  <a href="#Tools I Use"><img src="https://img.shields.io/badge/Intel_Celeron_N3060-blue?style=flat-square&logo=intel&logoColor=white" title="Processor: Intel Celeron N3060" /></a>
+  <a href="#Tools I Use"><img src="https://img.shields.io/badge/Edge/Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white" title="Browser: Edge / Chrome" /></a>
+  <a href="#Tools I Use"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" title="IDE: Visual Studio Code" /></a>
+  <a href="#Tools I Use"><img src="https://img.shields.io/badge/Cursor_AI-6E6EFF?style=flat-square&logo=OpenAI&logoColor=white" title="IDE: Cursor (AI-Powered)" /></a>
 </p>
 
 
@@ -149,7 +149,7 @@
 ### 💬 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+  <a href="#Random Dev Quote"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" /></a>
 </p>
 
 ---
@@ -157,7 +157,7 @@
 ### 🎧 Spotify Vibes
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=q2vjh8vfz2q9zn45iiulkymdc&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=true" />
+  <a href="#Spotify Vibes"><img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=q2vjh8vfz2q9zn45iiulkymdc&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=true" /></a>
 </p>
 
 ---
